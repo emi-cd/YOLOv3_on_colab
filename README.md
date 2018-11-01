@@ -29,15 +29,15 @@ COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
 OFFLOAD_TARGET_NAMES=nvptx-none  
 OFFLOAD_TARGET_DEFAULT=1  
 Target: x86_64-linux-gnu  
-Configured with: ../src/configure -v --with-pkgversion='Ubuntu 7.3.0-27ubuntu1~18.04' --with-b...  
+Configured with: \.\./src/configure -v --with-pkgversion='Ubuntu 7.3.0-27ubuntu1\~18.04' --with-b\.\.\.  
 Thread model: posix  
-gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04)  
+gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1\~18.04)  
 Using built-in specs.  
 COLLECT_GCC=g++  
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper  
 OFFLOAD_TARGET_NAMES=nvptx-none  
 OFFLOAD_TARGET_DEFAULT=1  
 Target: x86_64-linux-gnu  
-Configured with: ../src/configure -v --with-pkgversion='Ubuntu 7.3.0-27ubuntu1~18.04' --with-b...  
+Configured with: \.\./src/configure -v --with-pkgversion='Ubuntu 7.3.0-27ubuntu1\~18.04' --with-b\.\.\.  
 Thread model: posix  
-gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04)  
+gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1\~18.04)  
